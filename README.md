@@ -19,7 +19,6 @@ This project provides an Infrastructure as a Service (IaaS) based image recognit
 ## System Architecture
 
 ![System Architecture](./Architecture.png)  
-*Add your architecture diagram here*
 
 ## Installation and Setup
 
@@ -27,7 +26,6 @@ The project is composed of multiple Python scripts responsible for different tas
 
 For detailed information about the code, please refer to the `project_report.pdf` in the repository.
 
-*Provide step by step setup instructions here*
 
 ## Testing
 
